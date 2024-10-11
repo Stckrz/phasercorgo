@@ -1,5 +1,5 @@
 import './App.css'
-import PhaserGame from './components/PhaserGame';
+import PhaserGame from './components/MainLoop/PhaserGame';
 
 
 function App() {
@@ -7,7 +7,6 @@ function App() {
 	return (
 		<>
 			<PhaserGame />
-
 		</>
 	)
 }
