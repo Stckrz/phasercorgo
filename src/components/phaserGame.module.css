@@ -1,0 +1,10 @@
+
+.gameBox{
+	display: flex;
+	gap: 2px;
+}
+.buttonBox{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
